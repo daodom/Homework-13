@@ -1,0 +1,5 @@
+Dealer Billy Jones is believed to be colluding with player Mylie Schmidt. When reviewing data in Notes_Player_Analysis file, 
+Mylie Schmidt appears to be the most frequent player with losses and has a pattern of time. She usually plays on the hours
+of 08, 11, 02, 05. When you compare the hours she played and loss the game of Roulette, there was a specifc dealer.
+This is evdient in Notes_Dealer_Analysis file where Billy Jones is the only dealer that works during the times of losses. 
+In total there were 12 losses, Mylie lossed 12 times and Billy Jones was the dealer each time. 

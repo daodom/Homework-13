@@ -1,0 +1,240 @@
+total 24
+-rwxr-xr-x 1 sysadmin 1000 158 Sep 20 16:28 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000 462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000 325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000 800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000 532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000   0 Sep 20 16:28 storeoutput
+-rwxr-xr-x 1 sysadmin 1000 985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000 158 Sep 20 16:28 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000 462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000 325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000 800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000 532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 413 Sep 20 16:28 storeoutput
+-rwxr-xr-x 1 sysadmin 1000 985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000 272 Sep 20 16:35 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000 462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000 325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000 800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000 532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 826 Sep 20 16:28 storeoutput
+-rwxr-xr-x 1 sysadmin 1000 985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  272 Sep 20 16:35 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 1239 Sep 20 16:35 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  277 Sep 20 16:37 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 1659 Sep 20 16:35 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  277 Sep 20 16:37 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 2079 Sep 20 16:37 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  273 Sep 20 16:54 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 2499 Sep 20 16:37 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  273 Sep 20 16:54 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 2919 Sep 20 16:54 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  272 Sep 20 16:58 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 3339 Sep 20 16:54 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 28
+-rwxr-xr-x 1 sysadmin 1000  272 Sep 20 16:58 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 3759 Sep 20 16:58 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  272 Sep 20 16:59 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 4179 Sep 20 16:58 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  272 Sep 20 16:59 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 4599 Sep 20 16:59 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  268 Sep 20 17:00 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 5019 Sep 20 16:59 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  268 Sep 20 17:00 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 5439 Sep 20 17:00 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  289 Sep 20 17:02 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 5859 Sep 20 17:00 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  289 Sep 20 17:02 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 6279 Sep 20 17:02 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  294 Sep 20 17:03 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 6699 Sep 20 17:02 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  294 Sep 20 17:03 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 7119 Sep 20 17:03 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  297 Sep 20 17:05 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 7539 Sep 20 17:03 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 32
+-rwxr-xr-x 1 sysadmin 1000  297 Sep 20 17:05 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 7959 Sep 20 17:06 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000  295 Sep 20 17:07 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 8379 Sep 20 17:06 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000  295 Sep 20 17:07 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 8799 Sep 20 17:09 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000  292 Sep 20 17:10 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 9219 Sep 20 17:09 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000  292 Sep 20 17:10 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000  462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000  325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000  800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000  532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 9639 Sep 20 17:10 storeoutput
+-rwxr-xr-x 1 sysadmin 1000  985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000   297 Sep 20 17:12 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000   462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000   325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000   800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000   532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 10059 Sep 20 17:10 storeoutput
+-rwxr-xr-x 1 sysadmin 1000   985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000   297 Sep 20 17:12 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000   462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000   325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000   800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000   532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 10486 Sep 20 17:12 storeoutput
+-rwxr-xr-x 1 sysadmin 1000   985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000   317 Sep 20 17:14 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000   462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000   325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000   800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000   532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 10913 Sep 20 17:12 storeoutput
+-rwxr-xr-x 1 sysadmin 1000   985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000   317 Sep 20 17:14 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000   462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000   325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000   800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000   532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 11340 Sep 20 17:14 storeoutput
+-rwxr-xr-x 1 sysadmin 1000   985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000   322 Sep 20 17:16 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000   462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000   325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000   800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000   532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 11767 Sep 20 17:14 storeoutput
+-rwxr-xr-x 1 sysadmin 1000   985 Sep 20 15:02 sys_infoadmin.sh
+total 36
+-rwxr-xr-x 1 sysadmin 1000   322 Sep 20 17:16 for_loops2.sh
+-rwxr-xr-x 1 sysadmin 1000   462 Sep 20 16:21 for_loops.sh
+-rw-r--r-- 1 sysadmin 1000   325 Sep 20 15:30 newvariable
+-rw-r--r-- 1 sysadmin 1000   800 Sep 20 15:30 newvariable2
+-rwxr-xr-x 1 sysadmin 1000   532 Sep 20 15:28 practice020.sh
+-rw-r--r-- 1 sysadmin 1000 12194 Sep 20 17:16 storeoutput
+-rwxr-xr-x 1 sysadmin 1000   985 Sep 20 15:02 sys_infoadmin.sh
